@@ -3,10 +3,9 @@ html {
     background-color: #000000;  
 }
 
-/*Navigation Bar*/
-.navbar {
-    
-}
+/*Navigation Bar
+.navbar {}*/
+
 /* Jumbotron*/
 .jumbotron {
     background-color: #D4E4F3;
@@ -30,8 +29,6 @@ html {
     justify-content: center;
 }
 
-.btn {
-    align-items: center !important;
 }
 /* About Me Section */
 .aboutTitle {
@@ -40,4 +37,30 @@ html {
 .titleBlock {
     display: flex;
     justify-content: center;
+}
+
+/* Footer Area */
+
+.Footer {
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+.Quote {
+    background-color: grey;
+}
+
+.Icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.Icons a {
+    width: 44px;
+    height: 44px;
+    padding-left: 10px;
 }
