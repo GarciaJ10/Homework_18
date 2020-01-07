@@ -33,4 +33,11 @@ html {
 .btn {
     align-items: center !important;
 }
-
+/* About Me Section */
+.aboutTitle {
+    display: inline-block; 
+}
+.titleBlock {
+    display: flex;
+    justify-content: center;
+}
