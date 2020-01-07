@@ -1,0 +1,36 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #000000;  
+}
+
+/*Navigation Bar*/
+.navbar {
+    
+}
+/* Jumbotron*/
+.jumbotron {
+    background-color: #D4E4F3;
+    text-align: center;
+    color: #000000;
+}
+.jumbotron a {
+    background-color: #ffffff;
+    color: #000000;
+}
+/* Cards */
+.card {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+.card h1 {
+    color: #000000; 
+    justify-content: center;
+}
+
+.btn {
+    align-items: center !important;
+}
+
